@@ -1,2 +1,2 @@
 # berry_kyoto
-"# berry_kyoto" 1234
+berry_kyoto takuya
